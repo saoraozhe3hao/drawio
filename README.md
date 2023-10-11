@@ -59,3 +59,6 @@ Do not use any draw.io logo as the icon or logo for your business/organization, 
 Do not modify the permitted draw.io logos, including changing the color, dimensions, or combining with other words or design elements.
 
 Do not use JGraph trademarks or logos without JGraph’s prior written permission.
+
+#### 二次开发
+src/webapp 下是一个完整的web应用，可以单独部署使用
